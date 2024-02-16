@@ -22,10 +22,10 @@ Users can conveniently view their own listings as well as those they've bid on.
 Experience the thrill of live auctions, with bidding activity determining the final outcome.
 
 ## Additional Features:
-### Commenting: Users can add comments on listing details pages.
-### Pagination: Seamless navigation through multiple listings with pagination.
-### Image Uploads: Ability to upload images to enhance listing visuals.
-### Personalized Experience: User experience tailored based on login status and preferences.
+1. Commenting: Users can add comments on listing details pages.
+2. Pagination: Seamless navigation through multiple listings with pagination.
+3. Image Uploads: Ability to upload images to enhance listing visuals.
+4. Personalized Experience: User experience tailored based on login status and preferences.
 
 # Conclusion:
 Embark on your auction journey with our feature-rich platform. Whether you're a seasoned bidder or new to the world of auctions, our platform offers an engaging and immersive experience for all users. Join us and let the bidding begin!
